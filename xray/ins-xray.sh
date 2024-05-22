@@ -40,7 +40,7 @@ chmod +x /usr/local/bin/xray
 # Make Folder XRay
 mkdir -p /var/log/xray/
 
-sudo lsof -t -i tcp:80 -s tcp:listen | sudo xargs kill
+sudo lsof -t -i tcp:8880 -s tcp:listen | sudo xargs kill
 cd /root/
 wget https://raw.githubusercontent.com/acmesh-official/acme.sh/master/acme.sh
 bash acme.sh --install
