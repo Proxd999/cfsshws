@@ -58,7 +58,7 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 
 • Websocket TLS           : 443
 
-• Websocket None TLS      : 8880
+• Websocket None TLS      : 80
 
 • Websocket Ovpn          : 2086
 
