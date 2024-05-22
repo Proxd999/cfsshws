@@ -29,7 +29,7 @@ sshlink="raw.githubusercontent.com/Abdofaiz/cfsshws/main/ssh"
 # Link Hosting You For Wireguard
 # gl33chervpnnnnn="raw.githubusercontent.com/Abdofaiz/cfsshws/main/wireguard"
 # Link Hosting You For Xray
-xraylink="raw.githubusercontent.com/Abdofaiz/cfsshws/main/xray"
+xraylink="raw.githubusercontent.com/Abdofaiz/cfsshws/main/xray1"
 # Link Hosting You For Ipsec
 # gl33chervpnnnnnnn="raw.githubusercontent.com/Abdofaiz/cfsshws/main/ipsec"
 # Link Hosting You For Backup
